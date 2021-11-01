@@ -1,6 +1,6 @@
 ### SckitLearn-StudyNotes
 
-To be used as cheat sheet and examples of use.
+Personal notes to be used as examples of use of Sckit-Learn.
 
 It will cover the following topics:
 
